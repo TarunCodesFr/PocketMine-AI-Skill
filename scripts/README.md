@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# scripts/README.md — Script Directory Overview
+# scripts/README.md - Script Directory Overview
 # This file explains each script and how to use them.
 # --------------------------------------------------------
 # These scripts are run from your terminal (not in-game).
@@ -9,10 +9,10 @@
 
 : '
 ╔══════════════════════════════════════════════════════════════╗
-║         PocketMine Plugin Dev Skill — Scripts                ║
+║         PocketMine Plugin Dev Skill - Scripts                ║
 ╚══════════════════════════════════════════════════════════════╝
 
-scaffold.php — Generate a new plugin skeleton
+scaffold.php - Generate a new plugin skeleton
 ─────────────────────────────────────────────
 Creates a complete plugin folder with all boilerplate based on
 the plugin name, author, and complexity tier you choose.
@@ -33,7 +33,7 @@ What it generates:
 Output location: ./generated/<PluginName>/
 
 
-validate.php — Check a plugin for common issues
+validate.php - Check a plugin for common issues
 ────────────────────────────────────────────────
 Scans a plugin directory for structural mistakes and code
 quality problems before shipping it to a server.
@@ -61,7 +61,7 @@ Exit codes:
   1 = one or more errors found
 
 
-zip-plugin.php — Package a plugin for distribution
+zip-plugin.php - Package a plugin for distribution
 ───────────────────────────────────────────────────
 Zips a plugin folder into a distributable archive that can
 be dropped directly into a server'\''s plugins/ folder.
