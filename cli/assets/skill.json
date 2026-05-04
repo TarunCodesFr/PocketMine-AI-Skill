@@ -1,0 +1,42 @@
+{
+  "name": "pocketmine-ai-skill",
+  "displayName": "PocketMine Plugin Dev",
+  "description": "Advanced AI skill for building production-grade PocketMine-MP 5.x plugins. Covers any plugin type — PvP, minigames, economy, chat, admin tools, world management, and more. Enforces scalable Factory + Session + Trait architecture, async-safe DB patterns, and a mandatory non-developer-friendly config system.",
+  "version": "1.0.0",
+  "author": "pocketmine-skill",
+  "license": "MIT",
+  "keywords": [
+    "pocketmine",
+    "pocketmine-mp",
+    "minecraft",
+    "bedrock",
+    "php",
+    "plugin",
+    "pvp",
+    "minigame",
+    "economy",
+    "ai-skill",
+    "antigravity"
+  ],
+  "platforms": [
+    "antigravity",
+    "claude",
+    "cursor",
+    "windsurf",
+    "copilot",
+    "kiro",
+    "roocode",
+    "gemini",
+    "opencode",
+    "continue",
+    "warp",
+    "augment"
+  ],
+  "skillPath": "skills/pocketmine-plugin-dev/SKILL.md",
+  "targetRuntime": {
+    "server": "PocketMine-MP 5.42.x",
+    "api": "5.0.0",
+    "language": "PHP 8.2",
+    "game": "Minecraft Bedrock 1.26.10"
+  }
+}

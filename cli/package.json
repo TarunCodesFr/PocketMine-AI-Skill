@@ -1,0 +1,28 @@
+{
+  "name": "pocketmine-skill",
+  "version": "1.0.0",
+  "description": "CLI to install PocketMine AI Skill for developers",
+  "type": "module",
+  "bin": {
+    "pocketmine-skill": "./index.js"
+  },
+  "scripts": {
+    "prepack": "node scripts/build-assets.js"
+  },
+  "keywords": [
+    "pocketmine",
+    "pmmp",
+    "ai",
+    "skill",
+    "claude",
+    "cursor",
+    "windsurf"
+  ],
+  "author": "pocketmine-skill",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "prompts": "^2.4.2"
+  }
+}
