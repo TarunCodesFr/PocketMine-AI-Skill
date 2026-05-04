@@ -15,6 +15,28 @@ Build any plugin type - PvP arenas, minigames, economy systems, admin tools, cha
 
 ---
 
+## Installation
+
+You can install the CLI globally using npm:
+
+```bash
+npm install -g pocketmine-skill
+```
+
+Once installed, you can use the interactive installer to set up the skill in your coding assistant:
+
+```bash
+# Install interactively
+pocketmine-skill init
+
+# Install for a specific assistant
+pocketmine-skill init --ai cursor
+pocketmine-skill init --ai claude
+pocketmine-skill init --ai windsurf
+```
+
+---
+
 ## What This Skill Does
 
 When you describe a plugin idea, this skill:
