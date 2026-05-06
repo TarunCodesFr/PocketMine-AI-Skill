@@ -17,6 +17,8 @@ Build any plugin type - PvP arenas, minigames, economy systems, admin tools, cha
 
 ## Installation
 
+Here's a video showcasing the CLi and the skill itself: https://youtu.be/dEvFha8-n54?si=Zmf4xTetrvdrWRcV
+
 You can install the CLI globally using npm:
 
 ```bash
